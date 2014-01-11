@@ -1,4 +1,4 @@
 Timespot
 ========
 
-A .net webservice and client to manage time expectations and task completion.
+A RoR webservice and clients to manage time expectations and task completion.
